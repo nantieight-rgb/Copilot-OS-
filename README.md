@@ -151,3 +151,5 @@ Copilot と雑談していたら、
 （ギャグでも研究でもどうぞ）
 
 ---
+制作：
+Toyohiro Arimoto&Copilot

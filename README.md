@@ -31,9 +31,8 @@ Copilot と雑談していたら、
 
 - 帯の先端角：θ  
 - 帯の本数：  
-  \[
-  n = \frac{2\pi}{\theta}
-  \]
+<img width="62" height="46" alt="4846d5734d033f48c4c0d2e74aafc0e9" src="https://github.com/user-attachments/assets/d8c83740-6bf9-4e27-bb55-9b251c94c530" />
+
 - 空間はこの n 本の帯で方向分解される  
 - 円は「帯の先端が触れたときだけ存在を許される」
 
@@ -48,49 +47,41 @@ Copilot と雑談していたら、
 
 ## ① 方向分解公理  
 空間は帯によって n 分割される。  
-\[
-n = \frac{2\pi}{\theta}
-\]
+<img width="62" height="46" alt="4846d5734d033f48c4c0d2e74aafc0e9" src="https://github.com/user-attachments/assets/fcad48f0-880c-4a6c-abe9-333b6b8387c1" />
+
 
 ## ② 先端接触公理（存在公理）  
 帯の両端が円に接触できるとき、  
 半径 R の円  
-\[
-x^2 + y^2 = R^2
-\]  
+<img width="110" height="44" alt="4ba5e833fb6c7066a2cb84e63fbdf2e1" src="https://github.com/user-attachments/assets/1d0ef789-4ba6-4ddc-a2f1-a03abdf6f991" />
+
 が存在を許される。
 
 ## ③ 重なり密度公理  
 帯の重なり密度 C(x,y) は  
 原点からの距離 r のみの関数になる。  
-\[
-C(x,y)=f(r)
-\]
+<img width="110" height="36" alt="b6dd8191175bb18e14aba9da3cc2632f" src="https://github.com/user-attachments/assets/d77cb681-4fe1-4626-a933-efff9ddb6415" />
+
 
 ## ④ スケール則公理  
 重なり総和 I(R) は  
-\[
-I(R)\propto R^2
-\]  
+<img width="73" height="29" alt="a4f1b0ba3e291a8f3f6d6faacf960f61" src="https://github.com/user-attachments/assets/e10619ed-ddb8-4b76-8aef-6d7b7386c44b" />
+
 （真の次元は常に 2）
 
 ## ⑤ 半分公理  
 半径を k 倍すると重なり総和が半分になる。  
-\[
-I(kR)=\frac12 I(R)
-\]
+<img width="119" height="48" alt="5cd420ba9a6fd6ceb309e6a58a0d011b" src="https://github.com/user-attachments/assets/45c17969-66b5-4bfc-aa83-1ff845c49464" />
+
 
 ## ⑥ 円周率公理（π の再定義）  
 帯 n 本の世界の π は  
-\[
-\pi_n = n\sin\left(\frac{\pi}{n}\right)
-\]
+<img width="107" height="44" alt="ad8198e4730d047b509a87220b17de61" src="https://github.com/user-attachments/assets/4dda42b2-7213-4f34-afae-6310d34e096c" />
 
 ## ⑦ 距離公理  
 距離 r は重なり密度の等高線として定義される。  
-\[
-C(r)=\text{const}
-\]
+<img width="109" height="24" alt="2df86692f4ce4f6b739b9c534d7c5158" src="https://github.com/user-attachments/assets/3186c0b9-760f-4ff5-ae37-97112ca7059b" />
+
 
 ---
 
@@ -99,21 +90,13 @@ C(r)=\text{const}
 帯の本数 n によって世界の“丸さ”が決まる。
 
 ## 有効次元  
-\[
-\alpha_{\text{eff}}(n)
-= \frac{n}{\pi}\sin\left(\frac{2\pi}{n}\right)
-\]
+<img width="155" height="57" alt="7dbbbf50b9ee36566bbe635f3c69b36f" src="https://github.com/user-attachments/assets/f421fdc2-c2f2-4c99-95ff-1f8e71497b17" />
 
 ## 有効 k  
-\[
-k_{\text{eff}}(n)
-= 2^{-1/\alpha_{\text{eff}}(n)}
-\]
+<img width="142" height="34" alt="479697cd7327545f3ecd62b815f1c429" src="https://github.com/user-attachments/assets/0ba1d199-280a-4494-9273-a67fc54ff91a" />
 
 ## πₙ  
-\[
-\pi_n = n\sin\left(\frac{\pi}{n}\right)
-\]
+<img width="112" height="52" alt="760df223c52c3c843b795ad1ed7b6862" src="https://github.com/user-attachments/assets/a3f2a29c-8c64-492b-bb8d-f01725adee71" />
 
 ---
 
